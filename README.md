@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Madhav Mangu
+<h1 align="center">Hi 👋, I'm Mangu Madhav</h1>
+
 💻 Full-Stack Java Developer | 📊 Learning Python for Data Analytics
 ## 👨‍💻 About Me
 
