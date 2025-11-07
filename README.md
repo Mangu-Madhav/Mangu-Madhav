@@ -1,20 +1,15 @@
-##👋 Hi, I'm Madhav Mangu
+## 👋 Hi, I'm Madhav Mangu
 💻 Full-Stack Java Developer | 📊 Learning Python for Data Analytics
-##👨‍💻 About Me
-
-🎓 Computer Science Graduate from TKR College of Engineering and Technology
+## 👨‍💻 About Me
 
 💼 Trained in Java Full Stack Development through TNS India Foundation & DevSkillHub
 
 🧩 Passionate about building scalable applications, REST APIs, and solving real-world problems using clean code
 
-🔐 Experienced in cloud security concepts like Secure Data Self-Destruction, Ephemerizer-based key management, and DHT
-
 📊 Currently exploring Python, Pandas, NumPy, and data analytics fundamentals
 
 🌱 Always learning, improving, and building projects that make an impact
 
-💻 Full-Stack Java Developer | 📊 Learning Python for Data Analytics
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangu-madhav-681786284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYJF7VushSvyk5n%2FyXKSMGw%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:MADHAVMANGU1990@GMAIL.COM) 
 
