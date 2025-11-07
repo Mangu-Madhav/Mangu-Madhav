@@ -54,3 +54,17 @@
 [![](https://visitcount.itsvg.in/api?id=Mangu-Madhav&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 📊 Data Analytics Skills
+- **Data Handling:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Databases:** MySQL, SQLite
+- **Machine Learning (Basics):** Scikit-learn
+- **Dashboard Tools:** Power BI, Excel Analytics
+- **Reporting:** Jupyter Notebook, Google Colab
+
+## 🏆 Achievements & Certifications
+- ✅ **Git and GitHub Certification– PrepInsta**
+- 🥇 **Java Full-Stack Training Certification– Devskillhub**
+- 🧾 **Certificate of Participation– 30 Days Master class in Java**
