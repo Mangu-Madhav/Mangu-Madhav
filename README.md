@@ -29,7 +29,7 @@
   <tr>
    <td align="center"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" width="50"/><br>Spring</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL</td>
-    <td align="center><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="50"/><br>PostgreSQL</td>
+    <td align="center><img src="https://tse1.mm.bing.net/th/id/OIP.fjkMMOup1U8ZnbhzH1wrSAHaDZ?pid=Api&P=0&h=180" width="50"/><br>PostgreSQL</td>
     <td align="center"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="50"/><br>React</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python</td>
    
