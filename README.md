@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mangu Madhav</h1>
 
-💻 Full-Stack Java Developer | 📊 Learning Python for Data Analytics
+<h1 align="center"> 💻 Full-Stack Java Developer | 📊 Learning Python for Data Analytics</h1>
 ## 👨‍💻 About Me
 
 💼 Trained in Java Full Stack Development through TNS India Foundation & DevSkillHub
