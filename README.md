@@ -1,4 +1,5 @@
-Hi, I'm Madhav Mangu
+**Hi, I'm Madhav Mangu**
+
 💻 Full-Stack Java Developer | 📊 Learning Python for Data Analytics
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangu-madhav-681786284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYJF7VushSvyk5n%2FyXKSMGw%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:MADHAVMANGU1990@GMAIL.COM) 
