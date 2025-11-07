@@ -1,4 +1,5 @@
-## **Hi, I'm Madhav Mangu**
+## About Me
+**Hi, I'm Madhav Mangu**
 
 💻 Full-Stack Java Developer | 📊 Learning Python for Data Analytics
 ## 🌐 Socials:
