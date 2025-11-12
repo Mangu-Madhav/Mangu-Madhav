@@ -13,7 +13,7 @@
 🌱 Always learning, improving, and building projects that make an impact
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangu-madhav-681786284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYJF7VushSvyk5n%2FyXKSMGw%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:MADHAVMANGU1990@GMAIL.COM) [![GitHub]( )](https://github.com/Mangu-Madhav/Mangu-Madhav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangu-madhav-681786284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYJF7VushSvyk5n%2FyXKSMGw%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:MADHAVMANGU1990@GMAIL.COM) [![GitHub]( https://static.vecteezy.com/ti/vetor-gratis/p3/17119660-logotipo-do-github-icone-do-git-hub-com-texto-em-fundo-branco-e-preto-gratis-vetor.jpg)](https://github.com/Mangu-Madhav/Mangu-Madhav)
 
 ## 💻 Tech Stack:
   <table align="center">
