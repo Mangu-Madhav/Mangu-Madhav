@@ -4,12 +4,9 @@
 
 ## 👨‍💻 About Me
 
-💼 Trained in Java Full Stack Development through TNS India Foundation & DevSkillHub
-
-🧩 Passionate about building scalable applications, REST APIs, and solving real-world problems using clean code
-
 📊 Currently exploring Python, Pandas, NumPy, and data analytics fundamentals
-
+💼 Trained in Java Full Stack Development through TNS India Foundation & DevSkillHub
+🧩 Passionate about building scalable applications, REST APIs, and solving real-world problems using clean code
 🌱 Always learning, improving, and building projects that make an impact
 
 ## 🌐 Socials:
