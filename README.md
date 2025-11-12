@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mangu Madhav</h1>
 
-<h2 align="center"> 📊 Data Analytics</h2>
+<h1 align="center"> 📊 Data Analytics</h1>
 
 ## 👨‍💻 About Me
 
