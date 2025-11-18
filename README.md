@@ -99,7 +99,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mangu-Madhav&show_icons=true&theme=radical&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mangu-Madhav&show_icons=false&theme=radical&count_private=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangu-Madhav&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mangu-Madhav&theme=radical)
 
