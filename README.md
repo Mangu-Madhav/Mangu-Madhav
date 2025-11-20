@@ -101,7 +101,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mangu-Madhav&show_icons=true&theme=radical&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangu-Madhav&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mangu-Madhav&theme=radical)
+![](https://nirzak-streak-stats.vercel.app/?user=Mangu-Madhav&theme=dark&hide_border=true)<br/>
+
 
 </div>
 
