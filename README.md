@@ -79,6 +79,7 @@
 | Role | Organization | Duration |
 |------|--------------|----------|
 | 📊 **Data Analyst Intern** | Vangrove Tech | Aug 2025 – Oct 2025 |
+|☕**Java programming Intern**|DevSkillHub|May 2024 - july 2024|
 ---
 
 ## ✨ **Highlighted Projects**
