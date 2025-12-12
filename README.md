@@ -145,7 +145,9 @@
 ## 📬 **Connect With Me**
 
 📧 [madhavmangu1990@gmail.com](mailto:madhavmangu19@gmail.com)  
+
 💼 [LinkedIn](https://www.linkedin.com/in/mangu-madhav-681786284/)
+
 🐙 [GitHub](https://github.com/Mangu-Madhav)
 
 ---
