@@ -18,11 +18,7 @@ jobs:
 
       - name: Check streak
         run: |
-          STREAK=$(cat streak.json | grep -o '"currentStreak":{"length":[0-9]*' | grep -o '[0-9]*')
-
-          if [ -z "$STREAK" ]; then
-            STREAK=0
-          fi
+          STREAK=$(jq -r '.currentStreak.length // 0' streak.json)
 
           if [ "$STREAK" -ge 100 ]; then
             echo "## 🎉 100 Day Streak Achievement!" > compliment.txt
