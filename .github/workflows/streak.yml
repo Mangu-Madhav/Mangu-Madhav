@@ -18,7 +18,10 @@ jobs:
       
       - name: Check streak
         run: |
-          STREAK=$(cat streak.json | grep -o '"currentStreak":[0-9]*' | grep -o '[0-9]*' || echo 0)
+          set +e
+          STREAK=$(cat streak.json | grep -o '"currentStreak":[0-9]*' | grep -o '[0-9]*')
+          set -e
+
           if [ -z "$STREAK" ]; then
             STREAK=0
           fi
@@ -30,7 +33,6 @@ jobs:
           else
             echo "" > compliment.txt
           fi
-          exit 0
 
       - name: Insert into README
         run: |
