@@ -14,10 +14,12 @@ jobs:
 
       - name: Get streak data
         run: |
-          curl -s https://nirzak-streak-stats.vercel.app/api?user=Mangu-Madhav > streak.json
-
+          curl -s https://nirzak-streak-stats.vercel.app/?user=Mangu-Madhav&format=json > streak.json
+      
       - name: Check streak
         run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
           STREAK=$(jq -r '.currentStreak.length // 0' streak.json)
 
           if [ "$STREAK" -ge 100 ]; then
