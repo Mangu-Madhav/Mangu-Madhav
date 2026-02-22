@@ -1,0 +1,42 @@
+name: Auto Streak Compliment
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Get streak data
+        run: |
+          curl -s https://nirzak-streak-stats.vercel.app/api?user=Mangu-Madhav > streak.json
+
+      - name: Check streak
+        run: |
+          STREAK=$(cat streak.json | grep -o '"currentStreak":[0-9]*' | grep -o '[0-9]*')
+
+          if [ "$STREAK" -ge 100 ]; then
+            echo "## 🎉 100 Day Streak Achievement!" > compliment.txt
+            echo "🔥 Incredible consistency, Madhav!" >> compliment.txt
+            echo "🚀 You are officially unstoppable!" >> compliment.txt
+          else
+            echo "" > compliment.txt
+          fi
+
+      - name: Insert into README
+        run: |
+          awk '/<!--COMPLIMENT_START-->/{print;system("cat compliment.txt");next}1' README.md > temp.md
+          mv temp.md README.md
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Update streak compliment" || echo "No changes"
+          git push
